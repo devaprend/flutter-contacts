@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757187019458",
+    "firebase_url": "https://cadmeuapp.firebaseio.com",
+    "project_id": "cadmeuapp",
+    "storage_bucket": "cadmeuapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757187019458:android:517e37b462d9685ff7315b",
+        "android_client_info": {
+          "package_name": "com.exampleapp.cadmeuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757187019458-o6a2cjm2l2sevh6ocefclr4l522b1nrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcBZp90pKJ9L1hCjQDdn2zFQ19zNkuEig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757187019458-o6a2cjm2l2sevh6ocefclr4l522b1nrt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

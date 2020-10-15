@@ -1,0 +1,4 @@
+#Thu Oct 15 12:51:33 BRT 2020
+base.0=F\:\\Cadastro\\contacts\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
